@@ -6,15 +6,15 @@ i take loosely defined problems from scoping to a working system, and i write do
 decision went the way it did. currently an ai developer at **admrls**, finishing a b.tech in cse
 (ai & ml) at vit chennai in may 2027.
 
-→ **[maaadhavq.github.io](https://maaadhavq.github.io)** — full case studies, screenshots, resume
+→ **[maaadhavq.github.io](https://maaadhavq.github.io)**: full case studies, screenshots, resume
 
 **recent work**
 
-- [mandate-retry-sequencer](https://github.com/Maaadhavq/mandate-retry-sequencer) — recovers failed upi autopay debits. an llm agent proposes retries, five compliance rules decide. ₹44.25L of ₹1.26Cr recovered on 500 synthetic records, 214 tests · [live demo](https://mandate-retry-frontend.onrender.com)
-- [PAD-peripheral-artery-disease-detection](https://github.com/Maaadhavq/PAD-peripheral-artery-disease-detection) — leakage-controlled risk model on mimic-iv, plus a local rag copilot that verifies every citation in code
-- [EPI-Graph](https://github.com/Maaadhavq/EPI-Graph) — dengue outbreak forecasting with gat + lstm + biobert news embeddings. r² 0.585
-- [finstox-backend](https://github.com/Maaadhavq/finstox-backend) — fastapi backend serving lstm stock predictions with lime and shap explanations
-- [madhar sha customer intelligence](https://maaadhavq.github.io/madharsha-demo/) — showroom camera footage turned into plain-language staffing advice (phase 1 preview)
+- [mandate-retry-sequencer](https://github.com/Maaadhavq/mandate-retry-sequencer): recovers failed upi autopay debits. an llm agent proposes retries, five compliance rules decide. ₹44.25L of ₹1.26Cr recovered on 500 synthetic records, 214 tests · [live demo](https://mandate-retry-frontend.onrender.com)
+- [PAD-peripheral-artery-disease-detection](https://github.com/Maaadhavq/PAD-peripheral-artery-disease-detection): leakage-controlled risk model on mimic-iv, plus a local rag copilot that verifies every citation in code
+- [EPI-Graph](https://github.com/Maaadhavq/EPI-Graph): dengue outbreak forecasting with gat + lstm + biobert news embeddings. r² 0.585
+- [finstox-backend](https://github.com/Maaadhavq/finstox-backend): fastapi backend serving lstm stock predictions with lime and shap explanations
+- [madhar sha customer intelligence](https://maaadhavq.github.io/madharsha-demo/): showroom camera footage turned into plain-language staffing advice (phase 1 preview)
 
 **published** &nbsp; [a comprehensive analysis of lightweight cnn for fall detection in hallway monitoring](https://ieeexplore.ieee.org/document/11681696) · ieee icisc 2026
 
