@@ -18,7 +18,7 @@ looking for **product manager / apm / product analyst** and **ai/ml** roles.
 - [finstox-backend](https://github.com/Maaadhavq/finstox-backend) — fastapi backend serving lstm stock predictions with lime and shap explanations
 - [madhar sha customer intelligence](https://maaadhavq.github.io/madharsha-demo/) — showroom camera footage turned into plain-language staffing advice (phase 1 preview)
 
-**published** &nbsp; lightweight cnn for fall detection in hallway monitoring · ieee icisc 2026
+**published** &nbsp; [a comprehensive analysis of lightweight cnn for fall detection in hallway monitoring](https://ieeexplore.ieee.org/document/11681696) · ieee icisc 2026
 
 **tools** &nbsp; python · pytorch · scikit-learn · lightgbm · transformers · langchain · fastapi · postgresql · docker · github actions
 
