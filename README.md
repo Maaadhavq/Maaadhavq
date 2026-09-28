@@ -6,8 +6,6 @@ i take loosely defined problems from scoping to a working system, and i write do
 decision went the way it did. currently an ai developer at **admrls**, finishing a b.tech in cse
 (ai & ml) at vit chennai in may 2027.
 
-looking for **product manager / apm / product analyst** and **ai/ml** roles.
-
 → **[maaadhavq.github.io](https://maaadhavq.github.io)** — full case studies, screenshots, resume
 
 **recent work**
