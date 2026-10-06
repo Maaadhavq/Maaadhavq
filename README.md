@@ -10,6 +10,7 @@ decision went the way it did. currently an ai developer at **admrls**, finishing
 
 **recent work**
 
+- [onlabel](https://github.com/Maaadhavq/onlabel): mlr pre-check agent. traces pharma promo claims to the fda label with hybrid retrieval and open-weight llm judges, and plain-code guards decide what counts as traced. 132-claim benchmark; 0 of 18 prompt-injection attacks got a claim traced · [live demo](https://onlabel-web.onrender.com)
 - [mandate-retry-sequencer](https://github.com/Maaadhavq/mandate-retry-sequencer): recovers failed upi autopay debits. an llm agent proposes retries, five compliance rules decide. ₹44.25L of ₹1.26Cr recovered on 500 synthetic records, 214 tests · [live demo](https://mandate-retry-frontend.onrender.com)
 - [PAD-peripheral-artery-disease-detection](https://github.com/Maaadhavq/PAD-peripheral-artery-disease-detection): leakage-controlled risk model on mimic-iv, plus a local rag copilot that verifies every citation in code
 - [EPI-Graph](https://github.com/Maaadhavq/EPI-Graph): dengue outbreak forecasting with gat + lstm + biobert news embeddings. r² 0.585
